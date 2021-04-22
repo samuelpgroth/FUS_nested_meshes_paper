@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: SGroth_et_al_accelerating_numerical_methods_revision.aux
+The style file: jasaauthyear2.bst
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: SGroth_et_al_accelerating_numerical_methods_revisionNotes.bib
+Database file #2: Cambridge_bib.bib
+You've used 33 entries,
+            3868 wiz_defined-function locations,
+            1408 strings with 17147 characters,
+and the built_in function-call counts, 21512 in all, are:
+= -- 1660
+> -- 872
+< -- 21
++ -- 324
+- -- 285
+* -- 2653
+:= -- 3119
+add.period$ -- 66
+call.type$ -- 33
+change.case$ -- 252
+chr.to.int$ -- 33
+cite$ -- 33
+duplicate$ -- 1407
+empty$ -- 1686
+format.name$ -- 382
+if$ -- 4105
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 263
+newline$ -- 110
+num.names$ -- 132
+pop$ -- 362
+preamble$ -- 1
+purify$ -- 225
+quote$ -- 0
+skip$ -- 491
+stack$ -- 0
+substring$ -- 1031
+swap$ -- 1161
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 282
+warning$ -- 0
+while$ -- 147
+width$ -- 0
+write$ -- 370

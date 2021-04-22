@@ -1,0 +1,259 @@
+\begin{thebibliography}{33}
+\def\enquote#1{``#1,''}
+\def\plainquote#1{``#1''}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\dourl}[1]{\href{http://#1}{\nolinkurl{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\noopsort}[1]{}
+\providecommand{\switchargs}[2]{#2#1}
+  \def\eatspace #1{#1}
+
+\bibitem[{Azhari(2010)}]{azhari2010basics}
+\bibinfo{author}{Azhari, H.} (\textbf{\bibinfo{year}{2010}}).
+  \emph{\bibinfo{title}{Basics of biomedical ultrasound for engineers}}
+  (\bibinfo{publisher}{John Wiley \& Sons}).
+
+\bibitem[{Campos-Pozuelo \emph{et~al.}(1999)Campos-Pozuelo, Dubus, and
+  Gallego-Ju{\'a}rez}]{campos1999finite}
+\bibinfo{author}{Campos-Pozuelo, C.}, \bibinfo{author}{Dubus, B.},  and
+  \bibinfo{author}{Gallego-Ju{\'a}rez, J.~A.} (\textbf{\bibinfo{year}{1999}}).
+  \enquote{\bibinfo{title}{Finite-element analysis of the nonlinear propagation
+  of high-intensity acoustic waves}} \bibinfo{journal}{The Journal of the
+  Acoustical Society of America} \textbf{106}(1), \bibinfo{pages}{91--101}.
+
+\bibitem[{Chen and Holm(2004)}]{chen2004fractional}
+\bibinfo{author}{Chen, W.},  and \bibinfo{author}{Holm, S.}
+  (\textbf{\bibinfo{year}{2004}}). \enquote{\bibinfo{title}{Fractional
+  {L}aplacian time-space models for linear and nonlinear lossy media exhibiting
+  arbitrary frequency power-law dependency}} \bibinfo{journal}{The Journal of
+  the Acoustical Society of America} \textbf{115}(4),
+  \bibinfo{pages}{1424--1430}.
+
+\bibitem[{Colton and Kress(2013)}]{colton2013integral}
+\bibinfo{author}{Colton, D.},  and \bibinfo{author}{Kress, R.}
+  (\textbf{\bibinfo{year}{2013}}). \emph{\bibinfo{title}{Integral equation
+  methods in scattering theory}}, \bibinfo{volume}{\textbf{72}}
+  (\bibinfo{publisher}{SIAM}).
+
+\bibitem[{Costabel(2015)}]{costabel2015spectrum}
+\bibinfo{author}{Costabel, M.} (\textbf{\bibinfo{year}{2015}}).
+  \enquote{\bibinfo{title}{On the spectrum of volume integral operators in
+  acoustic scattering}} in \emph{\bibinfo{booktitle}{Integral Methods in
+  Science and Engineering}} (\bibinfo{publisher}{Springer}), pp.
+  \bibinfo{pages}{119--127}.
+
+\bibitem[{Deserno(2004)}]{deserno2004generate}
+\bibinfo{author}{Deserno, M.} (\textbf{\bibinfo{year}{2004}}).
+  \enquote{\bibinfo{title}{How to generate equidistributed points on the
+  surface of a sphere}} \bibinfo{journal}{If Polymerforshung (Ed.)}
+  \bibinfo{pages}{99}.
+
+\bibitem[{Draine and Flatau(1994)}]{draine1994discrete}
+\bibinfo{author}{Draine, B.~T.},  and \bibinfo{author}{Flatau, P.~J.}
+  (\textbf{\bibinfo{year}{1994}}). \enquote{\bibinfo{title}{Discrete-dipole
+  approximation for scattering calculations}} \bibinfo{journal}{The {J}ournal
+  of the {O}ptical {S}ociety of {A}merica {A}} \textbf{11}(4),
+  \bibinfo{pages}{1491--1499}.
+
+\bibitem[{Du and Jensen(2013)}]{du2013fast}
+\bibinfo{author}{Du, Y.},  and \bibinfo{author}{Jensen, J.~A.}
+  (\textbf{\bibinfo{year}{2013}}). \enquote{\bibinfo{title}{Fast simulation of
+  non-linear pulsed ultrasound fields using an angular spectrum approach}}
+  \bibinfo{journal}{Ultrasonics} \textbf{53}(2), \bibinfo{pages}{588--594}.
+
+\bibitem[{Duck(2013)}]{duck2013physical}
+\bibinfo{author}{Duck, F.~A.} (\textbf{\bibinfo{year}{2013}}).
+  \emph{\bibinfo{title}{Physical properties of tissues: a comprehensive
+  reference book}} (\bibinfo{publisher}{Academic press}).
+
+\bibitem[{Frigo and Johnson(2005)}]{FFTW05}
+\bibinfo{author}{Frigo, M.},  and \bibinfo{author}{Johnson, S.~G.}
+  (\textbf{\bibinfo{year}{2005}}). \enquote{\bibinfo{title}{The design and
+  implementation of {FFTW3}}} \bibinfo{journal}{Proceedings of the IEEE}
+  \textbf{93}(2), \bibinfo{pages}{216--231} \bibinfo{note}{special issue on
+  ``Program Generation, Optimization, and Platform Adaptation''}.
+
+\bibitem[{Gavrilov and Hand(2000)}]{gavrilov2000theoretical}
+\bibinfo{author}{Gavrilov, L.~R.},  and \bibinfo{author}{Hand, J.~W.}
+  (\textbf{\bibinfo{year}{2000}}). \enquote{\bibinfo{title}{A theoretical
+  assessment of the relative performance of spherical phased arrays for
+  ultrasound surgery}} \bibinfo{journal}{{I}{E}{E}{E} {T}ransactions on
+  {U}ltrasonics, {F}erroelectrics, and {F}requency {C}ontrol} \textbf{47}(1),
+  \bibinfo{pages}{125--139}.
+
+\bibitem[{G{\'e}lat \emph{et~al.}(2011)G{\'e}lat, Ter~Haar, and
+  Saffari}]{gelat2011modelling}
+\bibinfo{author}{G{\'e}lat, P.}, \bibinfo{author}{Ter~Haar, G.},  and
+  \bibinfo{author}{Saffari, N.} (\textbf{\bibinfo{year}{2011}}).
+  \enquote{\bibinfo{title}{Modelling of the acoustic field of a multi-element
+  {H}{I}{F}{U} array scattered by human ribs}} \bibinfo{journal}{Physics in
+  Medicine \& Biology} \textbf{56}(17), \bibinfo{pages}{5553}.
+
+\bibitem[{Groth \emph{et~al.}(2020)Groth, Polimeridis, and
+  White}]{groth2020accelerating}
+\bibinfo{author}{Groth, S.~P.}, \bibinfo{author}{Polimeridis, A.~G.},  and
+  \bibinfo{author}{White, J.~K.} (\textbf{\bibinfo{year}{2020}}).
+  \enquote{\bibinfo{title}{Accelerating the discrete dipole approximation via
+  circulant preconditioning}} \bibinfo{journal}{Journal of Quantitative
+  Spectroscopy and Radiative Transfer} \textbf{240}, \bibinfo{pages}{106689}.
+
+\bibitem[{Gu and Jing(2015)}]{gu2015modeling}
+\bibinfo{author}{Gu, J.},  and \bibinfo{author}{Jing, Y.}
+  (\textbf{\bibinfo{year}{2015}}). \enquote{\bibinfo{title}{Modeling of {W}ave
+  {P}ropagation for {M}edical {U}ltrasound: {A} {R}eview}}
+  \bibinfo{journal}{IEEE {T}ransactions on {U}ltrasonics, {F}erroelectrics, and
+  {F}requency {C}ontrol} \textbf{62}(11), \bibinfo{pages}{1979--1992}.
+
+\bibitem[{Hamilton \emph{et~al.}(1998)Hamilton, Blackstock
+  \emph{et~al.}}]{hamilton1998nonlinear}
+\bibinfo{author}{Hamilton, M.~F.}, \bibinfo{author}{Blackstock, D.~T.}
+  \emph{et~al.} (\textbf{\bibinfo{year}{1998}}).
+  \emph{\bibinfo{title}{Nonlinear acoustics}}, \bibinfo{volume}{\textbf{237}}
+  (\bibinfo{publisher}{Academic press San Diego}).
+
+\bibitem[{Izadifar \emph{et~al.}(2017)Izadifar, Babyn, and
+  Chapman}]{izadifar2017mechanical}
+\bibinfo{author}{Izadifar, Z.}, \bibinfo{author}{Babyn, P.},  and
+  \bibinfo{author}{Chapman, D.} (\textbf{\bibinfo{year}{2017}}).
+  \enquote{\bibinfo{title}{Mechanical and biological effects of ultrasound: A
+  review of present knowledge}} \bibinfo{journal}{Ultrasound in medicine \&
+  biology} \textbf{43}(6), \bibinfo{pages}{1085--1104}.
+
+\bibitem[{Jaros \emph{et~al.}(2016)Jaros, Rendell, and Treeby}]{jaros2016full}
+\bibinfo{author}{Jaros, J.}, \bibinfo{author}{Rendell, A.~P.},  and
+  \bibinfo{author}{Treeby, B.~E.} (\textbf{\bibinfo{year}{2016}}).
+  \enquote{\bibinfo{title}{Full-wave nonlinear ultrasound simulation on
+  distributed clusters with applications in high-intensity focused ultrasound}}
+  \bibinfo{journal}{The International Journal of High Performance Computing
+  Applications} \textbf{30}(2), \bibinfo{pages}{137--155}.
+
+\bibitem[{Jones \emph{et~al.}(2001--)Jones, Oliphant, Peterson
+  \emph{et~al.}}]{jones2001scipy}
+\bibinfo{author}{Jones, E.}, \bibinfo{author}{Oliphant, T.},
+  \bibinfo{author}{Peterson, P.} \emph{et~al.}
+  (\textbf{\bibinfo{year}{2001--}}). \plainquote{\bibinfo{title}{{SciPy}: Open
+  source scientific tools for {Python}}} \dourl{http://www.scipy.org/}.
+
+\bibitem[{Khokhlova \emph{et~al.}(2011)Khokhlova, Canney, Khokhlova,
+  Sapozhnikov, Crum, and Bailey}]{khokhlova2011controlled}
+\bibinfo{author}{Khokhlova, T.~D.}, \bibinfo{author}{Canney, M.~S.},
+  \bibinfo{author}{Khokhlova, V.~A.}, \bibinfo{author}{Sapozhnikov, O.~A.},
+  \bibinfo{author}{Crum, L.~A.},  and \bibinfo{author}{Bailey, M.~R.}
+  (\textbf{\bibinfo{year}{2011}}). \enquote{\bibinfo{title}{Controlled tissue
+  emulsification produced by high intensity focused ultrasound shock waves and
+  millisecond boiling}} \bibinfo{journal}{The Journal of the Acoustical Society
+  of America} \textbf{130}(5), \bibinfo{pages}{3498--3510}.
+
+\bibitem[{Kinsler \emph{et~al.}(1999)Kinsler, Frey, Coppens, and
+  Sanders}]{kinsler1999fundamentals}
+\bibinfo{author}{Kinsler, L.~E.}, \bibinfo{author}{Frey, A.~R.},
+  \bibinfo{author}{Coppens, A.~B.},  and \bibinfo{author}{Sanders, J.~V.}
+  (\textbf{\bibinfo{year}{1999}}). \emph{\bibinfo{title}{Fundamentals of
+  {A}coustics}} (\bibinfo{publisher}{Wiley}).
+
+\bibitem[{Kreider \emph{et~al.}(2013)Kreider, Yuldashev, Sapozhnikov, Farr,
+  Partanen, Bailey, and Khokhlova}]{kreider2013characterization}
+\bibinfo{author}{Kreider, W.}, \bibinfo{author}{Yuldashev, P.~V.},
+  \bibinfo{author}{Sapozhnikov, O.~A.}, \bibinfo{author}{Farr, N.},
+  \bibinfo{author}{Partanen, A.}, \bibinfo{author}{Bailey, M.~R.},  and
+  \bibinfo{author}{Khokhlova, V.~A.} (\textbf{\bibinfo{year}{2013}}).
+  \enquote{\bibinfo{title}{Characterization of a multi-element clinical hifu
+  system using acoustic holography and nonlinear modeling}}
+  \bibinfo{journal}{IEEE transactions on ultrasonics, ferroelectrics, and
+  frequency control} \textbf{60}(8), \bibinfo{pages}{1683--1698}.
+
+\bibitem[{Marburg(2008)}]{marburg2008discretization}
+\bibinfo{author}{Marburg, S.} (\textbf{\bibinfo{year}{2008}}).
+  \enquote{\bibinfo{title}{Discretization requirements: How many elements per
+  wavelength are necessary?}} in \emph{\bibinfo{booktitle}{Computational
+  Acoustics of Noise Propagation in Fluids-Finite and Boundary Element
+  Methods}} (\bibinfo{publisher}{Springer}), pp. \bibinfo{pages}{309--332}.
+
+\bibitem[{Maxwell \emph{et~al.}(2011)Maxwell, Wang, Cain, Fowlkes, Sapozhnikov,
+  Bailey, and Xu}]{maxwell2011cavitation}
+\bibinfo{author}{Maxwell, A.~D.}, \bibinfo{author}{Wang, T.-Y.},
+  \bibinfo{author}{Cain, C.~A.}, \bibinfo{author}{Fowlkes, J.~B.},
+  \bibinfo{author}{Sapozhnikov, O.~A.}, \bibinfo{author}{Bailey, M.~R.},  and
+  \bibinfo{author}{Xu, Z.} (\textbf{\bibinfo{year}{2011}}).
+  \enquote{\bibinfo{title}{Cavitation clouds created by shock scattering from
+  bubbles during histotripsy}} \bibinfo{journal}{The Journal of the Acoustical
+  Society of America} \textbf{130}(4), \bibinfo{pages}{1888--1898}.
+
+\bibitem[{Solovchuk \emph{et~al.}(2013)Solovchuk, Sheu, and
+  Thiriet}]{solovchuk2013simulation}
+\bibinfo{author}{Solovchuk, M.}, \bibinfo{author}{Sheu, T.~W.},  and
+  \bibinfo{author}{Thiriet, M.} (\textbf{\bibinfo{year}{2013}}).
+  \enquote{\bibinfo{title}{Simulation of nonlinear {W}estervelt equation for
+  the investigation of acoustic streaming and nonlinear propagation effects}}
+  \bibinfo{journal}{The Journal of the Acoustical Society of America}
+  \textbf{134}(5), \bibinfo{pages}{3931--3942}.
+
+\bibitem[{Solovchuk \emph{et~al.}(2014)Solovchuk, Hwang, Chang, Thiriet, and
+  Sheu}]{solovchuk2014temperature}
+\bibinfo{author}{Solovchuk, M.~A.}, \bibinfo{author}{Hwang, S.~C.},
+  \bibinfo{author}{Chang, H.}, \bibinfo{author}{Thiriet, M.},  and
+  \bibinfo{author}{Sheu, T.~W.} (\textbf{\bibinfo{year}{2014}}).
+  \enquote{\bibinfo{title}{Temperature elevation by {H}{I}{F}{U} in ex vivo
+  porcine muscle: {M}{R}{I} measurement and simulation study}}
+  \bibinfo{journal}{Medical physics} \textbf{41}(5), \bibinfo{pages}{052903}.
+
+\bibitem[{Soneson(Accessed: 2020-05-06)}]{HITUwebpage}
+\bibinfo{author}{Soneson, J.} (\textbf{\bibinfo{year}{Accessed: 2020-05-06}}).
+  \emph{\bibinfo{title}{HITU Simulator}},
+  \dourl{https://www.fda.gov/about-fda/cdrh-offices/hitu-simulator}.
+
+\bibitem[{Soneson(2017)}]{soneson2017extending}
+\bibinfo{author}{Soneson, J.~E.} (\textbf{\bibinfo{year}{2017}}).
+  \enquote{\bibinfo{title}{Extending the utility of the parabolic approximation
+  in medical ultrasound using wide-angle diffraction modeling}}
+  \bibinfo{journal}{IEEE {T}ransactions on {U}ltrasonics, {F}erroelectrics, and
+  {F}requency control} \textbf{64}(4), \bibinfo{pages}{679--687}.
+
+\bibitem[{{Sonic Concepts}(Accessed: 2020-08-19)}]{sonic}
+\bibinfo{author}{{Sonic Concepts}} (\textbf{\bibinfo{year}{Accessed:
+  2020-08-19}}). \emph{\bibinfo{title}{{Sonic Concepts} transducers}},
+  \dourl{https://sonicconcepts.com/transducer-selection-guide}.
+
+\bibitem[{Szabo(1994)}]{szabo1994time}
+\bibinfo{author}{Szabo, T.~L.} (\textbf{\bibinfo{year}{1994}}).
+  \enquote{\bibinfo{title}{Time domain wave equations for lossy media obeying a
+  frequency power law}} \bibinfo{journal}{The Journal of the Acoustical Society
+  of America} \textbf{96}(1), \bibinfo{pages}{491--500}.
+
+\bibitem[{Treeby and Cox(2010)}]{treeby2010modeling}
+\bibinfo{author}{Treeby, B.~E.},  and \bibinfo{author}{Cox, B.}
+  (\textbf{\bibinfo{year}{2010}}). \enquote{\bibinfo{title}{Modeling power law
+  absorption and dispersion for acoustic propagation using the fractional
+  laplacian}} \bibinfo{journal}{The Journal of the Acoustical Society of
+  America} \textbf{127}(5), \bibinfo{pages}{2741--2748}.
+
+\bibitem[{Treeby \emph{et~al.}(2012)Treeby, Jaros, Rendell, and
+  Cox}]{treeby2012modeling}
+\bibinfo{author}{Treeby, B.~E.}, \bibinfo{author}{Jaros, J.},
+  \bibinfo{author}{Rendell, A.~P.},  and \bibinfo{author}{Cox, B.}
+  (\textbf{\bibinfo{year}{2012}}). \enquote{\bibinfo{title}{Modeling nonlinear
+  ultrasound propagation in heterogeneous media with power law absorption using
+  a k-space pseudospectral method}} \bibinfo{journal}{The Journal of the
+  Acoustical Society of America} \textbf{131}(6), \bibinfo{pages}{4324--4336}.
+
+\bibitem[{van~'t Wout \emph{et~al.}(2015)van~'t Wout, G{\'e}lat, Betcke, and
+  Arridge}]{van2015fast}
+\bibinfo{author}{van~'t Wout, E.}, \bibinfo{author}{G{\'e}lat, P.},
+  \bibinfo{author}{Betcke, T.},  and \bibinfo{author}{Arridge, S.}
+  (\textbf{\bibinfo{year}{2015}}). \enquote{\bibinfo{title}{A fast boundary
+  element method for the scattering analysis of high-intensity focused
+  ultrasound}} \bibinfo{journal}{The Journal of the Acoustical Society of
+  America} \textbf{138}(5), \bibinfo{pages}{2726--2737}.
+
+\bibitem[{Vlaisavljevich \emph{et~al.}(2013)Vlaisavljevich, Kim, Allen, Owens,
+  Pelletier, Cain, Ives, and Xu}]{vlaisavljevich2013image}
+\bibinfo{author}{Vlaisavljevich, E.}, \bibinfo{author}{Kim, Y.},
+  \bibinfo{author}{Allen, S.}, \bibinfo{author}{Owens, G.},
+  \bibinfo{author}{Pelletier, S.}, \bibinfo{author}{Cain, C.},
+  \bibinfo{author}{Ives, K.},  and \bibinfo{author}{Xu, Z.}
+  (\textbf{\bibinfo{year}{2013}}). \enquote{\bibinfo{title}{Image-guided
+  non-invasive ultrasound liver ablation using histotripsy: feasibility study
+  in an in vivo porcine model}} \bibinfo{journal}{Ultrasound in medicine \&
+  biology} \textbf{39}(8), \bibinfo{pages}{1398--1409}.
+
+\end{thebibliography}

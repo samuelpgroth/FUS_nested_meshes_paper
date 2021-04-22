@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.2)  22 APR 2021 10:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.2)  22 APR 2021 14:41
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/samuelgroth/Dropbox/My papers/jasa_submission_files/SGroth_et_al_accelerating_numerical_methods_revision.tex"
-(/Users/samuelgroth/Dropbox/My papers/jasa_submission_files/SGroth_et_al_accelerating_numerical_methods_revision.tex
+**"/Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/SGroth_et_al_accelerating_numerical_methods_revision.tex"
+(/Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/SGroth_et_al_accelerating_numerical_methods_revision.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
-(/Users/samuelgroth/Dropbox/My papers/jasa_submission_files/JASA.cls
+(/Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/JASA.cls
 Document Class: JASA 2019/09/09 Version 1.1, document class
 Class JASA Info: 
  Written by Amy Hendrickson, amyh@texnology.com, http://www.texnology.com 
@@ -481,7 +481,7 @@ Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 80.
 Class revtex4-1 Info: cite was not loaded (OK!) on input line 80.
 Class revtex4-1 Info: mcite was not loaded (OK!) on input line 80.
 Class revtex4-1 Info: multicol was not loaded (OK!) on input line 80.
-(/Users/samuelgroth/Dropbox/My papers/jasa_submission_files/SGroth_et_al_accelerating_numerical_methods_revision.aux)
+(/Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/SGroth_et_al_accelerating_numerical_methods_revision.aux)
 \openout1 = `SGroth_et_al_accelerating_numerical_methods_revision.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
@@ -559,239 +559,248 @@ Overfull \vbox (5.12784pt too high) has occurred while \output is active []
 
  [2] [3] [4] [5]
 
-LaTeX Warning: Reference `FUS' on page 6 undefined on input line 247.
+LaTeX Warning: Reference `FUS' on page 6 undefined on input line 258.
 
-[6] [7]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 321.
+[6] [7] [8]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 333.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 321.
- [8] [9] [10] [11] [12] [13]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 333.
+ [9] [10] [11] [12] [13] [14]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[15pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[14] <figures/schematic_domain_dimensions_no_r.pdf, id=281, 1927.2pt x 1084.05pt>
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.585 \subsection{How many points per wavelength?}
+                                                  ] <figures/schematic_domain_dimensions_no_r.pdf, id=292, 1927.2pt x 1084.05pt>
 File: figures/schematic_domain_dimensions_no_r.pdf Graphic file (type pdf)
  <use figures/schematic_domain_dimensions_no_r.pdf>
-Package pdftex.def Info: figures/schematic_domain_dimensions_no_r.pdf used on input line 587.
+Package pdftex.def Info: figures/schematic_domain_dimensions_no_r.pdf used on input line 599.
 (pdftex.def)             Requested size: 468.0pt x 263.23744pt.
- [15pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.596 \end{equation}
-                    pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.596 \end{equation}
-                    ] <figures/H131_abs.jpg, id=297, 903.375pt x 702.625pt>
+ <figures/H131_abs.jpg, id=297, 903.375pt x 702.625pt>
 File: figures/H131_abs.jpg Graphic file (type jpg)
  <use figures/H131_abs.jpg>
-Package pdftex.def Info: figures/H131_abs.jpg used on input line 617.
+Package pdftex.def Info: figures/H131_abs.jpg used on input line 629.
 (pdftex.def)             Requested size: 468.0pt x 364.00551pt.
- [16pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
+ [16pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.624 
-       </Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/schematic_domain_dimensions_no_r.pdf>] [17pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
+l.636 
+      ]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[17pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.639 \begin{equation}
-                       </Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H131_abs.jpg>] <figures/conv_quad.pdf, id=321, 867.24pt x 578.16pt>
+l.651 \begin{equation}
+                       </Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/schematic_domain_dimensions_no_r.pdf>] [18pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.651 \begin{equation}
+                       </Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H131_abs.jpg>] <figures/conv_quad.pdf, id=331, 867.24pt x 578.16pt>
 File: figures/conv_quad.pdf Graphic file (type pdf)
  <use figures/conv_quad.pdf>
-Package pdftex.def Info: figures/conv_quad.pdf used on input line 653.
+Package pdftex.def Info: figures/conv_quad.pdf used on input line 665.
 (pdftex.def)             Requested size: 468.0pt x 311.99884pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/p2_approx_compare.pdf, id=326, 867.24pt x 578.16pt>
+<figures/p2_approx_compare.pdf, id=336, 867.24pt x 578.16pt>
 File: figures/p2_approx_compare.pdf Graphic file (type pdf)
  <use figures/p2_approx_compare.pdf>
-Package pdftex.def Info: figures/p2_approx_compare.pdf used on input line 668.
+Package pdftex.def Info: figures/p2_approx_compare.pdf used on input line 680.
 (pdftex.def)             Requested size: 468.0pt x 311.99884pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[18] [19pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.687 
-       </Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/conv_quad.pdf>] <figures/H131_HITU_comparison_water_test_power50.pdf, id=371, 650.43pt x 505.89pt>
+[19] <figures/H131_HITU_comparison_water_test_power50.pdf, id=354, 650.43pt x 505.89pt>
 File: figures/H131_HITU_comparison_water_test_power50.pdf Graphic file (type pdf)
  <use figures/H131_HITU_comparison_water_test_power50.pdf>
-Package pdftex.def Info: figures/H131_HITU_comparison_water_test_power50.pdf used on input line 706.
+Package pdftex.def Info: figures/H131_HITU_comparison_water_test_power50.pdf used on input line 718.
 (pdftex.def)             Requested size: 468.0pt x 364.00893pt.
- <figures/H101_HITU_comparison_liver_power100.pdf, id=372, 650.43pt x 505.89pt>
+ <figures/H101_HITU_comparison_liver_power100.pdf, id=355, 650.43pt x 505.89pt>
 File: figures/H101_HITU_comparison_liver_power100.pdf Graphic file (type pdf)
  <use figures/H101_HITU_comparison_liver_power100.pdf>
-Package pdftex.def Info: figures/H101_HITU_comparison_liver_power100.pdf used on input line 713.
+Package pdftex.def Info: figures/H101_HITU_comparison_liver_power100.pdf used on input line 725.
 (pdftex.def)             Requested size: 468.0pt x 364.00893pt.
- [20pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
+ [20pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.718 
-       </Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/p2_approx_compare.pdf>]
+l.730 
+       </Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/conv_quad.pdf>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/relative_magnitudes0_H101_power100_material_liver.jpg, id=390, 1927.2pt x 1445.4pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/relative_magnitudes0_H101_power100_material_liver.jpg, id=387, 1927.2pt x 1445.4pt>
 File: figures/relative_magnitudes0_H101_power100_material_liver.jpg Graphic file (type jpg)
  <use figures/relative_magnitudes0_H101_power100_material_liver.jpg>
-Package pdftex.def Info: figures/relative_magnitudes0_H101_power100_material_liver.jpg used on input line 721.
+Package pdftex.def Info: figures/relative_magnitudes0_H101_power100_material_liver.jpg used on input line 733.
 (pdftex.def)             Requested size: 444.59857pt x 333.44954pt.
- [21pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
+ [21pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.736 
-       </Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H131_HITU_comparison_water_test_power50.pdf>] [22pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
+l.748 
+       </Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/p2_approx_compare.pdf>] [22pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.736 
-       </Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H101_HITU_comparison_liver_power100.pdf>] [23pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) has been already used, duplicate ignored
+l.750 ...utation domains for successive harmonics}
+                                                   </Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H131_HITU_comparison_water_test_power50.pdf>] [23pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.745 
-       </Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/relative_magnitudes0_H101_power100_material_liver.jpg>] [24] [25] <figures/domain_convergence_waterH131_power100.pdf, id=440, 722.7pt x 505.89pt>
+l.767 
+       </Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H101_HITU_comparison_liver_power100.pdf>] [24pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.776 
+       </Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/relative_magnitudes0_H101_power100_material_liver.jpg>] [25] [26] <figures/domain_convergence_waterH131_power100.pdf, id=453, 722.7pt x 505.89pt>
 File: figures/domain_convergence_waterH131_power100.pdf Graphic file (type pdf)
  <use figures/domain_convergence_waterH131_power100.pdf>
-Package pdftex.def Info: figures/domain_convergence_waterH131_power100.pdf used on input line 834.
-(pdftex.def)             Requested size: 468.0pt x 327.59723pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[26] <figures/domain_convergence_space_x_waterH131_power100.pdf, id=455, 722.7pt x 505.89pt>
-File: figures/domain_convergence_space_x_waterH131_power100.pdf Graphic file (type pdf)
- <use figures/domain_convergence_space_x_waterH131_power100.pdf>
-Package pdftex.def Info: figures/domain_convergence_space_x_waterH131_power100.pdf used on input line 859.
+Package pdftex.def Info: figures/domain_convergence_waterH131_power100.pdf used on input line 846.
 (pdftex.def)             Requested size: 468.0pt x 327.59723pt.
  [27pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.866 
-       </Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/domain_convergence_waterH131_power100.pdf>] [28pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.874 
-       </Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/domain_convergence_space_x_waterH131_power100.pdf>]
-Overfull \hbox (8.84935pt too wide) in paragraph at lines 875--915
-[]\OT1/cmr/m/n/12 The ref-er-ence do-main for the H131 trans-ducer in wa-ter has di-men-sions $[4\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 1[]\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 3\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 3[]\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 3\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 3[]]$
- []
+l.855 \begin{equation}
+                       </Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/domain_convergence_waterH131_power100.pdf>] <figures/domain_convergence_space_x_waterH131_power100.pdf, id=493, 722.7pt x 505.89pt>
+File: figures/domain_convergence_space_x_waterH131_power100.pdf Graphic file (type pdf)
+ <use figures/domain_convergence_space_x_waterH131_power100.pdf>
+Package pdftex.def Info: figures/domain_convergence_space_x_waterH131_power100.pdf used on input line 871.
+(pdftex.def)             Requested size: 468.0pt x 327.59723pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[29] <figures/H131_abs_subdomains.jpg, id=528, 903.375pt x 702.625pt>
+
+Overfull \hbox (8.84935pt too wide) in paragraph at lines 887--902
+[]\OT1/cmr/m/n/12 The ref-er-ence do-main for the H131 trans-ducer in wa-ter has di-men-sions $[4\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 1[]\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 3\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 3[]\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 3\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 3[]]$
+ []
+
+[28]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[29pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.941 
+       </Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/domain_convergence_space_x_waterH131_power100.pdf>] [30pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.949 \end{quoting}
+                   ] <figures/H131_abs_subdomains.jpg, id=538, 903.375pt x 702.625pt>
 File: figures/H131_abs_subdomains.jpg Graphic file (type jpg)
  <use figures/H131_abs_subdomains.jpg>
-Package pdftex.def Info: figures/H131_abs_subdomains.jpg used on input line 942.
+Package pdftex.def Info: figures/H131_abs_subdomains.jpg used on input line 960.
 (pdftex.def)             Requested size: 468.0pt x 364.00551pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[30pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has been already used, duplicate ignored
+[31pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.952 
-      ] [31pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) has been already used, duplicate ignored
+l.993 \section{Volume potentials on nested meshes}
+                                                  ] [32pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.981     \For
-               {$i=2\rightarrow n$} </Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H131_abs_subdomains.jpg>] [32pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.1004 
-       ] [33] <figures/H101_HITU_comparison_water_test_power100.pdf, id=576, 650.43pt x 505.89pt>
+l.1002         \item A
+                      ssemble components for integration (\ref{eqn:quad}): </Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H131_abs_subdomains.jpg>] [33] <figures/H101_HITU_comparison_water_test_power100.pdf, id=582, 650.43pt x 505.89pt>
 File: figures/H101_HITU_comparison_water_test_power100.pdf Graphic file (type pdf)
  <use figures/H101_HITU_comparison_water_test_power100.pdf>
-Package pdftex.def Info: figures/H101_HITU_comparison_water_test_power100.pdf used on input line 1042.
+Package pdftex.def Info: figures/H101_HITU_comparison_water_test_power100.pdf used on input line 1060.
 (pdftex.def)             Requested size: 468.0pt x 364.00893pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[34]
-Overfull \hbox (38.77325pt too wide) in paragraph at lines 1119--1119
+[34] [35pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1137 }
+         </Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H101_HITU_comparison_water_test_power100.pdf>]
+Overfull \hbox (38.77325pt too wide) in paragraph at lines 1137--1137
 [] 
  []
 
-[35pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.1119 }
-         </Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H101_HITU_comparison_water_test_power100.pdf>] [36] <figures/H131_HITU_comparison_water_kidney_slab_power50.pdf, id=607, 650.43pt x 505.89pt>
+[36] <figures/H131_HITU_comparison_water_kidney_slab_power50.pdf, id=612, 650.43pt x 505.89pt>
 File: figures/H131_HITU_comparison_water_kidney_slab_power50.pdf Graphic file (type pdf)
  <use figures/H131_HITU_comparison_water_kidney_slab_power50.pdf>
-Package pdftex.def Info: figures/H131_HITU_comparison_water_kidney_slab_power50.pdf used on input line 1119.
+Package pdftex.def Info: figures/H131_HITU_comparison_water_kidney_slab_power50.pdf used on input line 1137.
 (pdftex.def)             Requested size: 468.0pt x 364.00893pt.
- [37pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) has been already used, duplicate ignored
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[37] [38pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1120 
-        </Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H131_HITU_comparison_water_kidney_slab_power50.pdf>] [38]
-Overfull \hbox (25.98318pt too wide) in paragraph at lines 1169--1170
+l.1164 
+        </Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H131_HITU_comparison_water_kidney_slab_power50.pdf>] [39]
+Overfull \hbox (25.98318pt too wide) in paragraph at lines 1199--1200
 []\OT1/cmr/m/n/12 A Python im-ple-men-ta-tion of this work is freely avail-able at []\OT1/cmtt/m/n/12 github.com/samuelpgroth/vines\OT1/cmr/m/n/12 . 
  []
 
-(/Users/samuelgroth/Dropbox/My papers/jasa_submission_files/SGroth_et_al_accelerating_numerical_methods_revision.bbl
+(/Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/SGroth_et_al_accelerating_numerical_methods_revision.bbl
 No file SGroth_et_al_accelerating_numerical_methods_revision.ent.
-[39] [40] [41]
-Underfull \hbox (badness 3503) in paragraph at lines 201--204
+[40] [41] [42]
+Underfull \hbox (badness 3503) in paragraph at lines 212--215
 []\OT1/cmr/m/n/12 Soneson, J. (\OT1/cmr/bx/n/12 Accessed: 2020-05-06\OT1/cmr/m/n/12 ). \OT1/cmr/m/it/12 HITU Sim-u-la-tor\OT1/cmr/m/n/12 , [][]$\OT1/cmtt/m/n/12 https : / / www . fda . gov /
  []
 
-[42]
-Underfull \hbox (badness 2334) in paragraph at lines 213--216
+[43]
+Underfull \hbox (badness 2334) in paragraph at lines 224--227
 []\OT1/cmr/m/n/12 Sonic Con-cepts (\OT1/cmr/bx/n/12 Accessed: 2020-08-19\OT1/cmr/m/n/12 ). \OT1/cmr/m/it/12 Sonic Con-cepts trans-duc-ers\OT1/cmr/m/n/12 , [][]$\OT1/cmtt/m/n/12 https : / /
  []
 
-) [43]
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1189.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1189.
- (/Users/samuelgroth/Dropbox/My papers/jasa_submission_files/SGroth_et_al_accelerating_numerical_methods_revision.aux)
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1189.
+) [44]
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1219.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1219.
+ (/Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/SGroth_et_al_accelerating_numerical_methods_revision.aux)
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1219.
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 11334 strings out of 493089
- 165329 string characters out of 6134842
- 279585 words of memory out of 5000000
- 14447 multiletter control sequences out of 15000+600000
+ 11345 strings out of 493089
+ 165631 string characters out of 6134842
+ 280737 words of memory out of 5000000
+ 14455 multiletter control sequences out of 15000+600000
  20739 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,20n,37p,935b,560s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,20n,37p,937b,603s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on "/Users/samuelgroth/Dropbox/My papers/jasa_submission_files/SGroth_et_al_accelerating_numerical_methods_revision.pdf" (43 pages, 1845369 bytes).
+Output written on "/Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/SGroth_et_al_accelerating_numerical_methods_revision.pdf" (44 pages, 1849130 bytes).
 PDF statistics:
- 761 PDF objects out of 1000 (max. 8388607)
- 646 compressed objects within 7 object streams
- 147 named destinations out of 1000 (max. 500000)
+ 771 PDF objects out of 1000 (max. 8388607)
+ 655 compressed objects within 7 object streams
+ 150 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,11 +1,11 @@
-PWD /Users/samuelgroth/Dropbox/My papers/jasa_submission_files
+PWD /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper
 INPUT /usr/local/texlive/2015/texmf.cnf
 INPUT /usr/local/texlive/2015/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/SGroth_et_al_accelerating_numerical_methods_revision.tex
-OUTPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/SGroth_et_al_accelerating_numerical_methods_revision.log
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/JASA.cls
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/JASA.cls
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/SGroth_et_al_accelerating_numerical_methods_revision.tex
+OUTPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/SGroth_et_al_accelerating_numerical_methods_revision.log
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/JASA.cls
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/JASA.cls
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/revtex/revtex4-1.cls
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/revtex/revtex4-1.cls
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/revtex/revtex4-1.cls
@@ -138,9 +138,9 @@ INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/tools/verbatim.sty
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/tools/verbatim.sty
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/SGroth_et_al_accelerating_numerical_methods_revision.aux
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/SGroth_et_al_accelerating_numerical_methods_revision.aux
-OUTPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/SGroth_et_al_accelerating_numerical_methods_revision.aux
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/SGroth_et_al_accelerating_numerical_methods_revision.aux
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/SGroth_et_al_accelerating_numerical_methods_revision.aux
+OUTPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/SGroth_et_al_accelerating_numerical_methods_revision.aux
 INPUT /usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 INPUT /usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
@@ -153,8 +153,8 @@ INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 INPUT /usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-OUTPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/SGroth_et_al_accelerating_numerical_methods_revision.pdf
-OUTPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/SGroth_et_al_accelerating_numerical_methods_revisionNotes.bib
+OUTPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/SGroth_et_al_accelerating_numerical_methods_revision.pdf
+OUTPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/SGroth_et_al_accelerating_numerical_methods_revisionNotes.bib
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
@@ -228,46 +228,46 @@ INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm1
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/schematic_domain_dimensions_no_r.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/schematic_domain_dimensions_no_r.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/schematic_domain_dimensions_no_r.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H131_abs.jpg
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H131_abs.jpg
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H131_abs.jpg
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/conv_quad.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/conv_quad.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/conv_quad.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/p2_approx_compare.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/p2_approx_compare.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/p2_approx_compare.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H131_HITU_comparison_water_test_power50.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H131_HITU_comparison_water_test_power50.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H131_HITU_comparison_water_test_power50.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H101_HITU_comparison_liver_power100.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H101_HITU_comparison_liver_power100.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H101_HITU_comparison_liver_power100.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/relative_magnitudes0_H101_power100_material_liver.jpg
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/relative_magnitudes0_H101_power100_material_liver.jpg
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/relative_magnitudes0_H101_power100_material_liver.jpg
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/domain_convergence_waterH131_power100.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/domain_convergence_waterH131_power100.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/domain_convergence_waterH131_power100.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/domain_convergence_space_x_waterH131_power100.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/domain_convergence_space_x_waterH131_power100.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/domain_convergence_space_x_waterH131_power100.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H131_abs_subdomains.jpg
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H131_abs_subdomains.jpg
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H131_abs_subdomains.jpg
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/schematic_domain_dimensions_no_r.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/schematic_domain_dimensions_no_r.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/schematic_domain_dimensions_no_r.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H131_abs.jpg
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H131_abs.jpg
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H131_abs.jpg
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/conv_quad.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/conv_quad.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/conv_quad.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/p2_approx_compare.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/p2_approx_compare.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/p2_approx_compare.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H131_HITU_comparison_water_test_power50.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H131_HITU_comparison_water_test_power50.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H131_HITU_comparison_water_test_power50.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H101_HITU_comparison_liver_power100.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H101_HITU_comparison_liver_power100.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H101_HITU_comparison_liver_power100.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/relative_magnitudes0_H101_power100_material_liver.jpg
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/relative_magnitudes0_H101_power100_material_liver.jpg
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/relative_magnitudes0_H101_power100_material_liver.jpg
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/domain_convergence_waterH131_power100.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/domain_convergence_waterH131_power100.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/domain_convergence_waterH131_power100.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/domain_convergence_space_x_waterH131_power100.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/domain_convergence_space_x_waterH131_power100.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/domain_convergence_space_x_waterH131_power100.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H131_abs_subdomains.jpg
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H131_abs_subdomains.jpg
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H131_abs_subdomains.jpg
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H101_HITU_comparison_water_test_power100.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H101_HITU_comparison_water_test_power100.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H101_HITU_comparison_water_test_power100.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H131_HITU_comparison_water_kidney_slab_power50.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H131_HITU_comparison_water_kidney_slab_power50.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/figures/H131_HITU_comparison_water_kidney_slab_power50.pdf
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/SGroth_et_al_accelerating_numerical_methods_revision.bbl
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/SGroth_et_al_accelerating_numerical_methods_revision.bbl
-INPUT /Users/samuelgroth/Dropbox/My papers/jasa_submission_files/SGroth_et_al_accelerating_numerical_methods_revision.aux
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H101_HITU_comparison_water_test_power100.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H101_HITU_comparison_water_test_power100.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H101_HITU_comparison_water_test_power100.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H131_HITU_comparison_water_kidney_slab_power50.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H131_HITU_comparison_water_kidney_slab_power50.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/figures/H131_HITU_comparison_water_kidney_slab_power50.pdf
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/SGroth_et_al_accelerating_numerical_methods_revision.bbl
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/SGroth_et_al_accelerating_numerical_methods_revision.bbl
+INPUT /Users/samuelgroth/Dropbox/My papers/FUS_nested_meshes_paper/SGroth_et_al_accelerating_numerical_methods_revision.aux
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb

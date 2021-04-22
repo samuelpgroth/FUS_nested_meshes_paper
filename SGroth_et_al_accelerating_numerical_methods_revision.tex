@@ -191,14 +191,25 @@ inefficient since the higher harmonics are localised around the focus,
 therefore the extremely fine mesh far away from the focus 
 is likely overkill. It seems intuitive that a mesh that is gradually refined 
 as the focus is approached would be sensible, but at what rate? And what saving 
-can one expect to achieve? Here, we address these questions via numerical 
+can one expect to achieve? Here we address these questions via numerical 
 experimentation on realistic \red{FUS} transducers taken from \cite{sonic}.
+
+\red{We note similar strategies have previously been employed to reduce the 
+computational load of nonlinear acoustics simulations~\cite{yuldashev2011simulation,karzova2017shock}.
+In these prior works, it was also observed that far from the transducer focus, higher harmonics provide 
+negligible contributions to the acoustic field and therefore, to save on storage requirements, 
+higher harmonics are stored only on smaller domains, centred at the focus. However, the grid
+step used in these works is not altered for the different harmonic computations. 
+By increasing the grid step for lower harmonics, further computational savings can be 
+achieved, as we demonstrate in this article. Furthermore, we detail an in-depth 
+study of how to choose appropriate computational domains for each harmonic and 
+ we provide a useful rule of thumb relating the domain dimensions to each harmonic's wavelength.}
 
 
 In order to perform these experiments efficiently, we consider a simplified setting 
 in which the propagation medium is homogeneous and the signal is assumed to have 
 harmonic time dependence. \red{Furthermore, we consider settings in which the peak amplitude 
-is no more than 10MPa and thus the field is only weakly non-linear}. Under the time-harmonic 
+is no more than 15MPa and thus the field is only weakly non-linear}. Under the time-harmonic 
 \red{and weakly non-linear assumptions}, the full-wave Westervelt 
 equation reduces to a series of inhomogeneous 
 Helmholtz equations, one for each harmonic present in the field (as in, e.g., 
@@ -264,10 +275,11 @@ of meshes is used in practice with our volume potential approach, including the
 interpolation of approximations between the meshes. Here we present some performance 
 details for this three-dimension full-wave approach on a single workstation.
 Finally, in Section~\ref{sec:conclusion} we 
-present our conclusions and discuss the relevance of this work to numerical 
-techniques for \red{FUS}, in particular finite-element methods, volume- and 
-boundary-integral equation methods, and coupled finite-element/boundary-element 
-methods. 
+present our conclusions and discuss the relevance of this work to other numerical 
+techniques for \red{FUS}.
+%, in particular finite-element methods, volume- and 
+%boundary-integral equation methods, and coupled finite-element/boundary-element 
+%methods. 
 
 
 \section{\label{sec:2} Nonlinear acoustics in the frequency domain}
@@ -882,9 +894,15 @@ Tab.~\ref{tab:convergence_domain}, we obtain a mesh for $p_2$ with dimensions
 $[4.1, 2.4, 2.4]$cm, which is discretised into voxels of dimension 
 $\delta x = \lambda_2/6\approx \red{113\mu}$m. This mesh has 
 $360\cdot 211\cdot 211\approx 1.6\times 10^7$ voxels, which is a factor of 
-30 smaller than the reference mesh. The meshes for the higher harmonics have 
-even fewer voxels and so overall we achieve more than a factor 30 reduction in 
-computational load compared to computing all harmonics on the reference mesh.
+30 smaller than the reference mesh. \red{The meshes for the computation of $p_3, p_4$
+and $p_5$ have $1.22\times10^7, 6.1\times10^6$ and $4.5\times10^6$ voxels, respectively.
+Thus the total number of voxels required for all harmonics is $4\times4.8\times 10^8=19\times 10^8$ for 
+the single mesh approach and $3.9\times 10^7$ for the nested meshing (summing over 
+voxels in each of the four meshes). Hence we achieve close to a factor 50 reduction in computational load.}
+
+% The meshes for the higher harmonics have 
+% even fewer voxels and so overall we achieve more than a factor 30 reduction in 
+% computational load compared to computing all harmonics on the reference mesh.
 \begin{table}[h!]
     \centering
     \begin{tabular}{c | c  c  c  c  c}
@@ -1123,17 +1141,17 @@ as \cite{van2015fast}, but this is left to future work.
 In this paper we have set out to reduce the computational burden of numerical 
 schemes for \red{FUS} simulations through the construction of an efficient and simple 
 meshing strategy. This strategy can be employed with those numerical schemes that 
-allow for non-uniform meshes, such as finite element methods, and those that solve 
+\red{seek to approximate the Westervelt equation on a single non-uniform mesh}, and those that solve 
 for each harmonic on separate meshes, such as the frequency-domain volume potential 
 approach proposed here.
 
 The strategy exploits the increasingly localised nature of the higher harmonics 
 around the transducer's focal region so that the degrees of freedom in the mesh
-can be more efficiently distributed. If we were considering a single mesh in a 
-finite element approach, for example, this mesh would become increasingly more 
-refined toward the focus, since this is where the higher harmonics are present.
-In the frequency-domain setting, this leads to a nested series of meshes, as 
-was discussed in detail in this article.
+can be more efficiently distributed. If we were considering a single non-uniform mesh approach 
+\red{in which we approximate the full Westervelt equation}, this mesh would become 
+increasingly more refined toward the focus, since this is where the higher 
+harmonics are present. In the frequency-domain setting we considered, this leads to a nested 
+series of meshes, as was discussed in detail in this article.
 
 In the frequency domain, the Westervelt equation can be rewritten as a series 
 of inhomogeneous Helmholtz equations. When the propagation medium is taken to be 
@@ -1160,6 +1178,18 @@ the number of harmonics being computed.
 The application to inhomogeneous media with large density contrast, such as between 
 water and bone, requires the introduction of further boundary integral operators, 
 with is left to future work.}
+
+\red{To conclude, we briefly comment on the generalisation of the `rule of thumb'
+to other transducer configurations and frequencies. In the present article, two 
+different transducers were considered, both at 1.1MHz, and propagating within 
+three different media: water, liver, kidney. All the examples considered produced 
+peak amplitudes of lower than 15MPa, at which the weakly nonlinear assumption used 
+in the derivation of the cascade of Helmholtz equations is accurate. We believe that 
+for different focused transducer configurations and frequencies, our proposed rule 
+of thumb is accurate, provided the field can still be categorised as weakly nonlinear.
+For highly nonlinear fields, a further study would be required to test the `rule of 
+thumb', and also a modification of our volume potential approach required to allow for 
+the transfer of energy from higher to lower harmonics.}
 
 % In addition to being of use to finite element methods, the volume potential 
 % approach could be extended to inhomogeneous/scattering configurations by the 

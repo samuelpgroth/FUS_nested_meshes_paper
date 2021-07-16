@@ -1,0 +1,258 @@
+\begin{thebibliography}{10}
+
+\bibitem{azhari2010basics}
+{\sc Azhari, H.}
+\newblock {\em Basics of biomedical ultrasound for engineers}.
+\newblock John Wiley \& Sons, 2010.
+
+\bibitem{bessonova2009focusing}
+{\sc Bessonova, O., Khokhlova, V., Bailey, M., Canney, M., and Crum, L.}
+\newblock Focusing of high power ultrasound beams and limiting values of shock
+  wave parameters.
+\newblock {\em Acoustical physics 55}, 4 (2009), 463--473.
+
+\bibitem{campos1999finite}
+{\sc Campos-Pozuelo, C., Dubus, B., and Gallego-Ju{\'a}rez, J.~A.}
+\newblock Finite-element analysis of the nonlinear propagation of
+  high-intensity acoustic waves.
+\newblock {\em The Journal of the Acoustical Society of America 106}, 1 (1999),
+  91--101.
+
+\bibitem{chen2004fractional}
+{\sc Chen, W., and Holm, S.}
+\newblock Fractional {L}aplacian time-space models for linear and nonlinear
+  lossy media exhibiting arbitrary frequency power-law dependency.
+\newblock {\em The Journal of the Acoustical Society of America 115}, 4 (2004),
+  1424--1430.
+
+\bibitem{colton2013integral}
+{\sc Colton, D., and Kress, R.}
+\newblock {\em Integral equation methods in scattering theory}, vol.~72.
+\newblock SIAM, 2013.
+
+\bibitem{costabel2015spectrum}
+{\sc Costabel, M.}
+\newblock On the spectrum of volume integral operators in acoustic scattering.
+\newblock In {\em Integral Methods in Science and Engineering}. Springer, 2015,
+  pp.~119--127.
+
+\bibitem{deserno2004generate}
+{\sc Deserno, M.}
+\newblock How to generate equidistributed points on the surface of a sphere.
+\newblock {\em If Polymerforshung (Ed.)\/} (2004), 99.
+
+\bibitem{draine1994discrete}
+{\sc Draine, B.~T., and Flatau, P.~J.}
+\newblock Discrete-dipole approximation for scattering calculations.
+\newblock {\em The {J}ournal of the {O}ptical {S}ociety of {A}merica {A} 11}, 4
+  (1994), 1491--1499.
+
+\bibitem{du2013fast}
+{\sc Du, Y., and Jensen, J.~A.}
+\newblock Fast simulation of non-linear pulsed ultrasound fields using an
+  angular spectrum approach.
+\newblock {\em Ultrasonics 53}, 2 (2013), 588--594.
+
+\bibitem{duck2013physical}
+{\sc Duck, F.~A.}
+\newblock {\em Physical properties of tissues: a comprehensive reference book}.
+\newblock Academic press, 2013.
+
+\bibitem{FFTW05}
+{\sc Frigo, M., and Johnson, S.~G.}
+\newblock The design and implementation of {FFTW3}.
+\newblock {\em Proceedings of the IEEE 93}, 2 (2005), 216--231.
+\newblock Special issue on ``Program Generation, Optimization, and Platform
+  Adaptation''.
+
+\bibitem{gavrilov2000theoretical}
+{\sc Gavrilov, L.~R., and Hand, J.~W.}
+\newblock A theoretical assessment of the relative performance of spherical
+  phased arrays for ultrasound surgery.
+\newblock {\em {I}{E}{E}{E} {T}ransactions on {U}ltrasonics, {F}erroelectrics,
+  and {F}requency {C}ontrol 47}, 1 (2000), 125--139.
+
+\bibitem{gelat2011modelling}
+{\sc G{\'e}lat, P., Ter~Haar, G., and Saffari, N.}
+\newblock Modelling of the acoustic field of a multi-element {H}{I}{F}{U} array
+  scattered by human ribs.
+\newblock {\em Physics in Medicine \& Biology 56}, 17 (2011), 5553.
+
+\bibitem{groth2020accelerating}
+{\sc Groth, S.~P., Polimeridis, A.~G., and White, J.~K.}
+\newblock Accelerating the discrete dipole approximation via circulant
+  preconditioning.
+\newblock {\em Journal of Quantitative Spectroscopy and Radiative Transfer
+  240\/} (2020), 106689.
+
+\bibitem{gu2015modeling}
+{\sc Gu, J., and Jing, Y.}
+\newblock Modeling of {W}ave {P}ropagation for {M}edical {U}ltrasound: {A}
+  {R}eview.
+\newblock {\em IEEE {T}ransactions on {U}ltrasonics, {F}erroelectrics, and
+  {F}requency {C}ontrol 62}, 11 (2015), 1979--1992.
+
+\bibitem{hamilton1998nonlinear}
+{\sc Hamilton, M.~F., Blackstock, D.~T., et~al.}
+\newblock {\em Nonlinear acoustics}, vol.~237.
+\newblock Academic press San Diego, 1998.
+
+\bibitem{izadifar2017mechanical}
+{\sc Izadifar, Z., Babyn, P., and Chapman, D.}
+\newblock Mechanical and biological effects of ultrasound: A review of present
+  knowledge.
+\newblock {\em Ultrasound in medicine \& biology 43}, 6 (2017), 1085--1104.
+
+\bibitem{jaros2016full}
+{\sc Jaros, J., Rendell, A.~P., and Treeby, B.~E.}
+\newblock Full-wave nonlinear ultrasound simulation on distributed clusters
+  with applications in high-intensity focused ultrasound.
+\newblock {\em The International Journal of High Performance Computing
+  Applications 30}, 2 (2016), 137--155.
+
+\bibitem{jones2001scipy}
+{\sc Jones, E., Oliphant, T., Peterson, P., et~al.}
+\newblock {SciPy}: Open source scientific tools for {Python}, 2001--.
+
+\bibitem{karzova2017shock}
+{\sc Karzova, M.~M., Yuldashev, P.~V., Sapozhnikov, O.~A., Khokhlova, V.~A.,
+  Cunitz, B.~W., Kreider, W., and Bailey, M.~R.}
+\newblock Shock formation and nonlinear saturation effects in the ultrasound
+  field of a diagnostic curvilinear probe.
+\newblock {\em The Journal of the Acoustical Society of America 141}, 4 (2017),
+  2327--2337.
+
+\bibitem{khokhlova2011controlled}
+{\sc Khokhlova, T.~D., Canney, M.~S., Khokhlova, V.~A., Sapozhnikov, O.~A.,
+  Crum, L.~A., and Bailey, M.~R.}
+\newblock Controlled tissue emulsification produced by high intensity focused
+  ultrasound shock waves and millisecond boiling.
+\newblock {\em The Journal of the Acoustical Society of America 130}, 5 (2011),
+  3498--3510.
+
+\bibitem{kinsler1999fundamentals}
+{\sc Kinsler, L.~E., Frey, A.~R., Coppens, A.~B., and Sanders, J.~V.}
+\newblock {\em Fundamentals of {A}coustics}.
+\newblock Wiley, 1999.
+
+\bibitem{kothapalli2018convenient}
+{\sc Kothapalli, S.~V., Partanen, A., Zhu, L., Altman, M.~B., Gach, H.~M.,
+  Hallahan, D.~E., and Chen, H.}
+\newblock A convenient, reliable, and fast acoustic pressure field measurement
+  method for magnetic resonance-guided high-intensity focused ultrasound
+  systems with phased array transducers.
+\newblock {\em Journal of therapeutic ultrasound 6}, 1 (2018), 1--8.
+
+\bibitem{kreider2013characterization}
+{\sc Kreider, W., Yuldashev, P.~V., Sapozhnikov, O.~A., Farr, N., Partanen, A.,
+  Bailey, M.~R., and Khokhlova, V.~A.}
+\newblock Characterization of a multi-element clinical hifu system using
+  acoustic holography and nonlinear modeling.
+\newblock {\em IEEE transactions on ultrasonics, ferroelectrics, and frequency
+  control 60}, 8 (2013), 1683--1698.
+
+\bibitem{marburg2008discretization}
+{\sc Marburg, S.}
+\newblock Discretization requirements: How many elements per wavelength are
+  necessary?
+\newblock In {\em Computational Acoustics of Noise Propagation in Fluids-Finite
+  and Boundary Element Methods}. Springer, 2008, pp.~309--332.
+
+\bibitem{maxwell2011cavitation}
+{\sc Maxwell, A.~D., Wang, T.-Y., Cain, C.~A., Fowlkes, J.~B., Sapozhnikov,
+  O.~A., Bailey, M.~R., and Xu, Z.}
+\newblock Cavitation clouds created by shock scattering from bubbles during
+  histotripsy.
+\newblock {\em The Journal of the Acoustical Society of America 130}, 4 (2011),
+  1888--1898.
+
+\bibitem{ries2010real}
+{\sc Ries, M., De~Senneville, B.~D., Roujol, S., Berber, Y., Quesson, B., and
+  Moonen, C.}
+\newblock Real-time 3d target tracking in mri guided focused ultrasound
+  ablations in moving tissues.
+\newblock {\em Magnetic Resonance in Medicine 64}, 6 (2010), 1704--1712.
+
+\bibitem{solovchuk2013simulation}
+{\sc Solovchuk, M., Sheu, T.~W., and Thiriet, M.}
+\newblock Simulation of nonlinear {W}estervelt equation for the investigation
+  of acoustic streaming and nonlinear propagation effects.
+\newblock {\em The Journal of the Acoustical Society of America 134}, 5 (2013),
+  3931--3942.
+
+\bibitem{solovchuk2014temperature}
+{\sc Solovchuk, M.~A., Hwang, S.~C., Chang, H., Thiriet, M., and Sheu, T.~W.}
+\newblock Temperature elevation by {H}{I}{F}{U} in ex vivo porcine muscle:
+  {M}{R}{I} measurement and simulation study.
+\newblock {\em Medical physics 41}, 5 (2014), 052903.
+
+\bibitem{HITUwebpage}
+{\sc Soneson, J.}
+\newblock {\em HITU Simulator}, Accessed: 2020-05-06.
+
+\bibitem{soneson2017extending}
+{\sc Soneson, J.~E.}
+\newblock Extending the utility of the parabolic approximation in medical
+  ultrasound using wide-angle diffraction modeling.
+\newblock {\em IEEE {T}ransactions on {U}ltrasonics, {F}erroelectrics, and
+  {F}requency control 64}, 4 (2017), 679--687.
+
+\bibitem{sonic}
+{\sc {Sonic Concepts}}.
+\newblock {\em {Sonic Concepts} transducers}, Accessed: 2020-08-19.
+
+\bibitem{szabo1994time}
+{\sc Szabo, T.~L.}
+\newblock Time domain wave equations for lossy media obeying a frequency power
+  law.
+\newblock {\em The Journal of the Acoustical Society of America 96}, 1 (1994),
+  491--500.
+
+\bibitem{treeby2010modeling}
+{\sc Treeby, B.~E., and Cox, B.}
+\newblock Modeling power law absorption and dispersion for acoustic propagation
+  using the fractional laplacian.
+\newblock {\em The Journal of the Acoustical Society of America 127}, 5 (2010),
+  2741--2748.
+
+\bibitem{treeby2012modeling}
+{\sc Treeby, B.~E., Jaros, J., Rendell, A.~P., and Cox, B.}
+\newblock Modeling nonlinear ultrasound propagation in heterogeneous media with
+  power law absorption using a k-space pseudospectral method.
+\newblock {\em The Journal of the Acoustical Society of America 131}, 6 (2012),
+  4324--4336.
+
+\bibitem{van2015fast}
+{\sc van~'t Wout, E., G{\'e}lat, P., Betcke, T., and Arridge, S.}
+\newblock A fast boundary element method for the scattering analysis of
+  high-intensity focused ultrasound.
+\newblock {\em The Journal of the Acoustical Society of America 138}, 5 (2015),
+  2726--2737.
+
+\bibitem{vlaisavljevich2013image}
+{\sc Vlaisavljevich, E., Kim, Y., Allen, S., Owens, G., Pelletier, S., Cain,
+  C., Ives, K., and Xu, Z.}
+\newblock Image-guided non-invasive ultrasound liver ablation using
+  histotripsy: feasibility study in an in vivo porcine model.
+\newblock {\em Ultrasound in medicine \& biology 39}, 8 (2013), 1398--1409.
+
+\bibitem{waters2005causality}
+{\sc Waters, K.~R., Mobley, J., and Miller, J.~G.}
+\newblock Causality-imposed (kramers-kronig) relationships between attenuation
+  and dispersion.
+\newblock {\em IEEE transactions on ultrasonics, ferroelectrics, and frequency
+  control 52}, 5 (2005), 822--823.
+
+\bibitem{yuldashev2011simulation}
+{\sc Yuldashev, P., and Khokhlova, V.}
+\newblock Simulation of three-dimensional nonlinear fields of ultrasound
+  therapeutic arrays.
+\newblock {\em Acoustical physics 57}, 3 (2011), 334--343.
+
+\bibitem{yuldashev2018wide}
+{\sc Yuldashev, P., Mezdrokhin, I., and Khokhlova, V.}
+\newblock Wide-angle parabolic approximation for modeling high-intensity fields
+  from strongly focused ultrasound transducers.
+\newblock {\em Acoustical Physics 64}, 3 (2018), 309--319.
+
+\end{thebibliography}
